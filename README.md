@@ -7,4 +7,6 @@ SKILL SET PAGE
 
 ![Screenshot (11)](https://github.com/reddi-18/Portfolio/assets/158818972/dd0c24fb-4a85-462b-8116-8ad8df2db561)
 
-
+**HTML
+CSS
+**
